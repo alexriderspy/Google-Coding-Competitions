@@ -1,0 +1,2 @@
+input get stored in a buffer so if i know my program is going to give a RE 
+i should not expect my program will print the stuff before the RE. 
